@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<addon id="repository.thegrindage" name="[COLORghostwhite][B]GRIND[/B][/COLOR] [COLORred][B]Repository[/B][/COLOR]" version="1.1.1" provider-name="[COLORyellow][B]Yo' Boy From Oklahoma[/B][/COLOR]">
+<addon id="repository.thegrindage" name="[COLORghostwhite][B]GRIND[/B][/COLOR] [COLORred][B]Repository[/B][/COLOR]" version="3.1.1" provider-name="[COLORyellow][B]Yo' Boy From Oklahoma[/B][/COLOR]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0" />
   </requires>
